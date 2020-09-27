@@ -5,7 +5,7 @@ Framework details:
 Webdriverio framework
 Cucumber, BDD, POM
 Chai assertions
-Chromedriver service (Couldn't get selenium-standalone working, hence used chromedriver service) 
+Chromedriver service
 
 Installation required for running the tests:
 
